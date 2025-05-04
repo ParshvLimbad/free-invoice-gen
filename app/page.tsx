@@ -11,7 +11,7 @@ export default function Home() {
         no setup required.
       </p>
       <Link href="/invoice" passHref>
-        <Button size="lg">Go to Invoice Form</Button>
+        <Button size="lg">Go Invoice Form</Button>
       </Link>
     </main>
   );
